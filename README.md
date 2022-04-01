@@ -9,4 +9,6 @@ To convert video to gif in Python, you need to install a package called ```movie
 You can learn more about the moviepy module on their official website.
 https://zulko.github.io/moviepy/ 
 
-The code executed is in main.py file of the repository.
+The code executed is in ```main.py``` file of the repository.
+
+Wanna connect with me? See you on [Twitter](https://twitter.com/thegeekyb0y).
